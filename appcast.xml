@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Scholarly Review Room updates</title>
+    <link>https://raw.githubusercontent.com/jgassens/grant-review-bot-updates/main/appcast.xml</link>
+    <description>Signed in-app updates for Scholarly Review Room.</description>
+  </channel>
+</rss>
