@@ -3,14 +3,14 @@
     <channel>
         <title>Scholarly Review Room</title>
         <item>
-            <title>0.15.6</title>
-            <pubDate>Thu, 24 Sep 2026 21:19:22 -0500</pubDate>
+            <title>0.15.7</title>
+            <pubDate>Fri, 25 Sep 2026 09:29:43 -0500</pubDate>
             <link>https://github.com/jgassens/grant-review-bot-updates</link>
-            <sparkle:version>65</sparkle:version>
-            <sparkle:shortVersionString>0.15.6</sparkle:shortVersionString>
+            <sparkle:version>66</sparkle:version>
+            <sparkle:shortVersionString>0.15.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/jgassens/grant-review-bot-updates/releases/download/v0.15.6/Scholarly-Review-Room-0.15.6-arm64.zip" length="223528292" type="application/octet-stream" sparkle:edSignature="LEMoNE73t/gs955ggSbUfXehZYyKOnwkwq0aa8gTj/qsjqv5uA4PejtU48LWtOWS9ColMVhgdCnGhoMm+N3dCQ=="/>
+            <enclosure url="https://github.com/jgassens/grant-review-bot-updates/releases/download/v0.15.7/Scholarly-Review-Room-0.15.7-arm64.zip" length="223533927" type="application/octet-stream" sparkle:edSignature="iPEqGaq/qIfmsiyqbgY0fMSlPAY4uUSKBEhiGc+L97aW41Y6wMYeCzYfDrBY1Vkhc81mRdyfaamV1yTx/B8OBQ=="/>
         </item>
     </channel>
 </rss>
